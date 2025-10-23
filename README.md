@@ -21,12 +21,14 @@
 - Modular component architecture
 - Local storage persistence
 - Hacktoberfest-friendly issues
-
+```
 git clone https://github.com/vatsark9/plumdejour.git
 cd plumdejour
 npm install
 npm run dev
-App will be live at http://localhost:5173
+```
+> App will be live at http://localhost:5173
+
 .
 
 ## 🤝 Contributing
